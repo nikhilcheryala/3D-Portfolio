@@ -1,12 +1,49 @@
-# React + Vite
+# 🌐 3D Developer Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive and interactive 3D developer portfolio built using **React.js**, **Three.js**, and **React Three Fiber**. This project showcases my skills, projects, and contact information in a visually dynamic and responsive web experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔧 **3D Hero Section** – Built using `Three.js` and `React Three Fiber`
+- 🧩 Smooth animations with `framer-motion`
+- 💼 Showcases Projects, Skills, and Contact Form
+- 🌍 3D Earth model integrated with EmailJS for contact functionality
+- 🎨 Fully responsive design with Tailwind CSS
+- 🌌 3D stars and interactive elements
+- 💬 Clean and minimal UI/UX
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
+- **3D & Animations:** Three.js, React Three Fiber, Drei, Framer Motion
+- **Email:** EmailJS for form submission
+- **Build Tool:** Vite
+
+---
+
+## 📸 Screenshots
+
+| Landing Section | Skills Section | Contact Section |
+|-----------------|----------------|-----------------|
+| ![Hero](./screenshots/hero.png) | ![Skills](./screenshots/skills.png) | ![Contact](./screenshots/contact.png) |
+
+---
+
+## 📦 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/nikhilcheryala/3D-Portfolio.git
+
+# Navigate to the project directory
+cd 3D-Portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
