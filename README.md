@@ -25,14 +25,6 @@ An immersive and interactive 3D developer portfolio built using **React.js**, **
 
 ---
 
-## 📸 Screenshots
-
-| Landing Section | Skills Section | Contact Section |
-|-----------------|----------------|-----------------|
-| ![Hero](./screenshots/hero.png) | ![Skills](./screenshots/skills.png) | ![Contact](./screenshots/contact.png) |
-
----
-
 ## 📦 Getting Started
 
 ```bash
